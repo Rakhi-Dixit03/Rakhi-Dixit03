@@ -33,7 +33,7 @@ Web Development:
  <img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=HTML&logoColor=orange">
  <img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS&logoColor=blue">
  <img src="https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&logo=Bootstrap&logoColor=black">
- <br>
+ <br><br>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  <img src="https://img.shields.io/badge/MySql-F7DF1E?style=for-the-badge&logo=MySql&logoColor=black">
@@ -44,9 +44,9 @@ Web Development:
 
 
 ### 🛠 Projects
-🔹 [HealthyGo](rakhi-dixit08.github.io/HealthyGo) - A health & wellness website  
-🔹 [Spotify Clone](rakhi-dixit08.github.io/SpotifyClone) - A music streaming UI clone  
-🔹 [Random Quote Generator](rakhi-dixit08.github.io/QuoteGenerator) - Fetches motivational quotes via API  
+🔹 [HealthyGo](https://rakhi-dixit08.github.io/HealthyGo-Website/) - A health & wellness website  
+🔹 [Spotify Clone](https://rakhi-dixit08.github.io/SpotifyClone/) - A music streaming UI clone  
+🔹 [Random Quote Generator](https//rakhi-dixit08.github.io/QuoteGenerator/) - Fetches motivational quotes via API  
 
 
 

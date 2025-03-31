@@ -61,7 +61,8 @@
 
 
 ### 📫 Connect with Me
-💼 [!LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakhidixit08)  
+<img> src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+[LinkedIn](https://www.linkedin.com/in/rakhidixit08)  
 
 
 

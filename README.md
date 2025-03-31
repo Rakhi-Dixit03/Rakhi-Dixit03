@@ -14,7 +14,7 @@
 
 ### ⚒️ Tech Stack
 
-Languages:
+<h4>Languages:</h4>
 
 
  <p>
@@ -26,7 +26,7 @@ Languages:
   </p>
 
   
-Web Development:
+<h4>Web Development:</h4>
 
 
 <p >
@@ -45,8 +45,8 @@ Web Development:
 
 ### 🛠 Projects
 🔹 [HealthyGo](https://rakhi-dixit08.github.io/HealthyGo-Website/) - A health & wellness website  
-🔹 [Spotify Clone](https://rakhi-dixit08.github.io/SpotifyClone/) - A music streaming UI clone  
-🔹 [Random Quote Generator](https//rakhi-dixit08.github.io/QuoteGenerator/) - Fetches motivational quotes via API  
+🔹 [Spotify Clone](https://rakhi-dixit08.github.io/Spotify-clone/) - A music streaming UI clone  
+ 
 
 
 

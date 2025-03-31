@@ -17,7 +17,7 @@
 <h4>Languages:</h4>
 
 
- <p>
+ <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black">
  <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=yellow">
  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=green">
@@ -27,11 +27,10 @@
 <h4>Web Development:</h4>
 
 
-<p >
+<p align="center">
  <img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=HTML&logoColor=orange">
  <img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS&logoColor=blue">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for- 
-   the-badge&logo=javaScript&logoColor=black">
+ <img src="https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=JavaScript&logoColor=white">
  <img src="https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&logo=Bootstrap&logoColor=black">
  <br><br>
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">

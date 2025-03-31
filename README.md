@@ -16,9 +16,10 @@
 Languages:
  <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=black">
- <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for- 
+   the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=yellow">
+ <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=green">
   </p>
   
 Web Development:

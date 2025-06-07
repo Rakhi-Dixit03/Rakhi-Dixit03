@@ -3,7 +3,7 @@
 
 
 ### 🚀 About Me
-- 🎓  BCA Student| Hindu Girls College, Sonipat  
+- 🎓  BCA Graduate 
 - 🏆 Gold Medalist in National Level Maths Olympiad  
 - 💻 Passionate about MERN Stack Development & Open Source Contributions 
 - 🌍 Exploring AI and its related fields

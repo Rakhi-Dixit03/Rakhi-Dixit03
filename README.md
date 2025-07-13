@@ -43,11 +43,10 @@
 
 
 
-### 🛠 Projects
+### 🚀 Live Projects
 🔹 [HealthyGo](https://rakhi-dixit08.github.io/HealthyGo-Website/) - A health & wellness website  
-🔹 [Spotify Clone](https://rakhi-dixit08.github.io/Spotify-clone/) - A music streaming UI clone  
- 
-
+🔹 [Spotify Clone](https://rakhi-dixit08.github.io/Spotify-clone/) - A music streaming UI clone   
+🌐 [Frontend Journey (Landing Pages)](https://rakhi-dixit03.github.io/Frontend-journey/) - A collection of my HTML/CSS landing pages with GitHub Pages deployment.
 
 
 

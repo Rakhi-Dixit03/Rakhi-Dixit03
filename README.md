@@ -33,9 +33,15 @@
  <img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS&logoColor=blue">
  <img src="https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=JavaScript&logoColor=white">
  <img src="https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&logo=Bootstrap&logoColor=black">
+  
+
+</p>
  <br><br>
+ <p  align="center">
+   <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/MySql-F7DF1E?style=for-the-badge&logo=MySql&logoColor=black">
+  
 <!--  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> -->
- <img src="https://img.shields.io/badge/MySql-F7DF1E?style=for-the-badge&logo=MySql&logoColor=black">
 <!--  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> -->
 </p>

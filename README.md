@@ -3,13 +3,13 @@
 
 
 ### 🚀 About Me
-- 🎓  BCA Graduate 
+- 🎓  MCA Student at NIT Kurukshetra
 - 🏆 Gold Medalist in National Level Maths Olympiad  
 - 💻 Passionate about MERN Stack Development & Open Source Contributions 
 - 🌍 Exploring AI and its related fields
 - 🎯 Currently Learning: Data Structures & Algorithms in Java and refining web development skills
 - 💭Ask me about Web Development and Java Programming
-- ⚡Fun fact:I love learning and exploring new things
+- ⚡Fun fact : I get so lost in code that I forget to eat 😅
 
 
 ### ⚒️ Tech Stack
